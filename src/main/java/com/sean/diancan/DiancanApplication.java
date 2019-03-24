@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DiancanApplication {
 
     public static void main(String[] args) {
+        System.out.print("test");
         SpringApplication.run(DiancanApplication.class, args);
     }
 
